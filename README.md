@@ -1,6 +1,11 @@
+<div  align="end">    
+<img src="https://github.com/HWenSu/HWenSu/blob/main/HWenSu.gif" width = "400" >
+</div>
+
 # About Me
 
 👋 Hello there! I'm Elva Su, a creative mind with a background in fashion design seamlessly merged with various forms of visual aesthetics. Transitioning from material design, I'm currently delving into the world of engineering, eager to blend my artistic sensibilities with front-end development to craft innovative creations.
+
 
 ## Background
 
